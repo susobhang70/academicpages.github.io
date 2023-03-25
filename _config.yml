@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Susobhan Ghosh"
 title_separator          : "-"
 name                     : &name "Susobhan Ghosh"
-description              : &description "First year PhD Student at SEAS, Harvard"
-url                      : https://www.susobhan.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Third year PhD Student at SEAS, Harvard"
+url                      : https://susobhan.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "susobhang70/academicpages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Susobhan Ghosh"
   avatar           : "susobhan.jpg"
-  bio              : "First year PhD student at Harvard, working with Prof. Milind Tambe"
-  location         : "Kolkata"
+  bio              : "Third year Computer Science PhD student at Harvard"
+  location         : "Boston"
+  cv               : "cv_concise.pdf"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3NhEFSAAAAAJ&hl=en"
