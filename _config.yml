@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Susobhan Ghosh"
 title_separator          : "-"
 name                     : &name "Susobhan Ghosh"
-description              : &description "Fourth year PhD Student at SEAS, Harvard"
+description              : &description "Fifth year PhD Student at SEAS, Harvard"
 url                      : https://susobhan.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "susobhang70/academicpages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Susobhan Ghosh"
   avatar           : "susobhan.jpg"
-  bio              : "Fourth year Computer Science PhD student at Harvard"
+  bio              : "Fifth year Computer Science PhD student at Harvard"
   location         : "Boston"
   cv               : "cv_concise.pdf"
   employer         :
