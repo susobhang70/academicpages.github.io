@@ -88,7 +88,7 @@ Talks
   
 ---
 
-Presentations  
+Posters  
 ====
 * **reBandit: Random Effects based Online RL algorithm for Reducing Cannabis Use** (IJCAI 2024)
 * **MiWaves: AI-driven Digital Health Interventions to help reduce cannabis use** (SCT 2024)
